@@ -7,6 +7,7 @@ schema:
   version: '0.1'
   author: 
     - mksinicus <marcuszhonggh@foxmail.com>
+    - Mishiro Shinohara <mishiro@sisu1949.onmicrosoft.com>
   description: |
     输入方案参考了 Hongwei Zhang 的 [SemKey 输入法](https://www.researchgate.net/publication/330501972)。
     有若干改动：
