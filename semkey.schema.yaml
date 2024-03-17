@@ -4,7 +4,7 @@
 schema:
   schema_id: semkey
   name: 闪语转写字母
-  version: '0.2'
+  version: '0.2.1'
   author: 
     - mksinicus <marcuszhonggh@foxmail.com>
     - Mishiro Shinohara <mishiro@sisu1949.onmicrosoft.com>
