@@ -43,8 +43,8 @@ engine:
     - table_translator
 
 speller:
-  alphabet: "abcdefghijklmnopqrstuvwxyz1234567890`()[]-;',.~^="
-  initials: "abcdefghijklmnopqrstuvwxyz`()[]-;',.~^"
+  alphabet: "abcdefghijklmnopqrstuvwxyz1234567890`()[]-;',.~^=/"
+  initials: "abcdefghijklmnopqrstuvwxyz`()[]-;',.~^/"
   auto_select: true
 
 translator:
